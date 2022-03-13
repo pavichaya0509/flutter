@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364024622587",
+    "project_id": "memoney-9da0e",
+    "storage_bucket": "memoney-9da0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364024622587:android:0df06b3144e3c328a92f5e",
+        "android_client_info": {
+          "package_name": "com.example.me_money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364024622587-bk13ueffmttd4aseuhc68i2pdjmoi4ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCE7fHwujKeSUBNhgODNaykM98_U3zhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364024622587-bk13ueffmttd4aseuhc68i2pdjmoi4ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
